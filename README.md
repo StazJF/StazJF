@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StazJF
 - 👀 I’m interested in developing websites. 
-- 🌱 I’m currently learning HTML,CSS,Java,and Javascript. 
+- 🌱 I’m currently learning HTML,CSS,and Javascript. 
 - 📫 How to reach me? 
   Add me on Discord: Staz#5675
 
